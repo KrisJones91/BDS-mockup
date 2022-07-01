@@ -7,12 +7,12 @@
     max-width: 40%;
     max-height: 40%;
     position: relative;
-
+    image-resolution: inherit;
 }
 
 .bg_section1 {
-    background-image: url('images/clouds.jpg');
-    background-position: middle;
+    background-image: url('images/header-image.png');
+    background-size: cover;
 
 
 }
@@ -40,4 +40,8 @@
         min-width: 50% !important;
         transition: .4s ease;
     }
+}
+
+.bg_section2 {
+    background-color: #01447e;
 }
