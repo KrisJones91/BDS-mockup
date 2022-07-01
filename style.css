@@ -4,14 +4,20 @@
 }
 
 .bds_logo {
-    max-width: 40%;
-    max-height: 40%;
-    object-fit: contain;
+    min-width: 40%;
+    height: 60%;
+
 
 }
 
 .bg_section1 {
     background-image: url('images/clouds.jpg');
     height: 300px;
-    object-fit: cover;
+
+
+}
+
+.icon {
+    height: 50%;
+
 }
