@@ -1,10 +1,17 @@
-.bds_logo {
-    width: 35%;
-    height: 35%;
-}
-
-
 .nav_logo {
     width: 20%;
     height: 20%;
+}
+
+.bds_logo {
+    max-width: 40%;
+    max-height: 40%;
+    object-fit: contain;
+
+}
+
+.bg_section1 {
+    background-image: url('images/clouds.jpg');
+    height: 300px;
+    object-fit: cover;
 }
