@@ -21,6 +21,7 @@
     -webkit-filter: grayscale(100%);
 }
 
+
 @media screen and (max-width:520px) {
 
 
@@ -44,4 +45,9 @@
 
 .bg_section2 {
     background-color: #01447e;
+    position: relative;
+}
+
+.postage_img {
+    max-width: 100%;
 }
