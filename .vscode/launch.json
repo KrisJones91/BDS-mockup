@@ -7,8 +7,8 @@
         {
             "type": "pwa-chrome",
             "request": "launch",
-            "name": "Open Untitled-1.html",
-            "file": "u:\\project\\app\\valli\\Untitled-1.html"
+            "name": "Open BDShome.html",
+            "file": "u:\\project\\app\\valli\\BDShome.html"
         }
     ]
 }
